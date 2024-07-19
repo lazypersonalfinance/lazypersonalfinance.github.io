@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About LazyPersonalFinance
-
 Welcome to LazyPersonalFinance, where financial management meets simplicity for the busy software engineer who prefers efficiency over complexity. My name is [Your Name], and I understand the struggle of balancing a career in software engineering with personal finance management.
 
 ## Why LazyPersonalFinance?
